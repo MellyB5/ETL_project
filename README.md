@@ -2,11 +2,11 @@
 
 Topics: Cocoa for Everyone
 
-Target Customer:
-•	Upcoming Cocoa producer
-•	People seeking for ethical production of cocoa
-•	Chocolate Manufacturer
-•	Potential Investors & Speculators of stock market
+Target Customer:<br>
+•	Upcoming Cocoa producer<br>
+•	People seeking for ethical production of cocoa<br>
+•	Chocolate Manufacturer<br>
+•	Potential Investors & Speculators of stock market<br>
 
 Data consideration:
 •	Production Volume based on countries
