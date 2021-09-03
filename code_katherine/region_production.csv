@@ -1,0 +1,237 @@
+Region,Year,Area_unit,Area_harvested,Production_unit,Production,Yield_unit,Yield
+Africa,1961,ha,3017100.0,tonnes,744077.0,hg/ha,2661.3333333333335
+Africa,1962,ha,3066400.0,tonnes,750336.0,hg/ha,2631.733333333333
+Africa,1963,ha,3085150.0,tonnes,801775.0,hg/ha,2711.5333333333333
+Africa,1964,ha,3121390.0,tonnes,1045990.0,hg/ha,3045.133333333333
+Africa,1965,ha,3102955.0,tonnes,748040.0,hg/ha,2566.8
+Africa,1966,ha,2655750.0,tonnes,814517.0,hg/ha,2797.5333333333333
+Africa,1967,ha,2741982.0,tonnes,831110.0,hg/ha,2865.2
+Africa,1968,ha,2605170.0,tonnes,706199.0,hg/ha,2858.866666666667
+Africa,1969,ha,2745420.0,tonnes,818606.0,hg/ha,2813.133333333333
+Africa,1970,ha,2770760.0,tonnes,935031.0,hg/ha,3093.6
+Africa,1971,ha,2829141.0,tonnes,945609.0,hg/ha,3084.133333333333
+Africa,1972,ha,2689417.0,tonnes,844038.0,hg/ha,2960.6666666666665
+Africa,1973,ha,2669992.0,tonnes,751806.0,hg/ha,2861.5333333333333
+Africa,1974,ha,2657587.0,tonnes,777749.0,hg/ha,2805.8
+Africa,1975,ha,2663920.0,tonnes,766974.0,hg/ha,2888.9333333333334
+Africa,1976,ha,2618246.0,tonnes,637605.0,hg/ha,2533.133333333333
+Africa,1977,ha,2539859.0,tonnes,625547.0,hg/ha,2587.133333333333
+Africa,1978,ha,2548267.0,tonnes,584803.0,hg/ha,2377.6
+Africa,1979,ha,2556126.0,tonnes,609967.0,hg/ha,2529.6666666666665
+Africa,1980,ha,2572917.0,tonnes,601617.0,hg/ha,2372.4
+Africa,1981,ha,2564541.0,tonnes,593247.0,hg/ha,2321.266666666667
+Africa,1982,ha,2257989.0,tonnes,520880.0,hg/ha,2323.9333333333334
+Africa,1983,ha,2167100.0,tonnes,473468.0,hg/ha,2222.733333333333
+Africa,1984,ha,2167950.0,tonnes,502209.0,hg/ha,2282.4666666666667
+Africa,1985,ha,2281990.0,tonnes,530493.0,hg/ha,2148.2
+Africa,1986,ha,2278643.0,tonnes,554310.0,hg/ha,2068.9333333333334
+Africa,1987,ha,2146255.0,tonnes,530623.0,hg/ha,2103.6666666666665
+Africa,1988,ha,2097046.0,tonnes,687187.0,hg/ha,2475.9333333333334
+Africa,1989,ha,2094150.0,tonnes,736376.0,hg/ha,2699.2
+Africa,1990,ha,2018876.0,tonnes,704933.0,hg/ha,2454.4666666666667
+Africa,1991,ha,2025452.0,tonnes,662619.0,hg/ha,2322.133333333333
+Africa,1992,ha,1978944.0,tonnes,734921.0,hg/ha,2669.733333333333
+Africa,1993,ha,1921740.0,tonnes,694541.0,hg/ha,2829.733333333333
+Africa,1994,ha,1962545.0,tonnes,755988.0,hg/ha,2680.6
+Africa,1995,ha,2305637.0,tonnes,779557.0,hg/ha,2835.866666666667
+Africa,1996,ha,2349157.0,tonnes,900125.0,hg/ha,2933.4
+Africa,1997,ha,2358091.0,tonnes,810943.0,hg/ha,2928.6666666666665
+Africa,1998,ha,2677827.0,tonnes,960255.0,hg/ha,3020.6
+Africa,1999,ha,2598063.0,tonnes,820021.0,hg/ha,2796.4
+Africa,2000,ha,3028094.0,tonnes,941045.0,hg/ha,2802.9333333333334
+Africa,2001,ha,2858141.0,tonnes,893962.0,hg/ha,2777.733333333333
+Africa,2002,ha,2737458.0,tonnes,866060.0,hg/ha,2867.4
+Africa,2003,ha,3121297.0,tonnes,1082989.0,hg/ha,2965.2
+Africa,2004,ha,3735747.0,tonnes,1379260.0,hg/ha,3213.4
+Africa,2005,ha,3686355.0,tonnes,1423095.0,hg/ha,3159.733333333333
+Africa,2006,ha,3628821.0,tonnes,1504695.0,hg/ha,3223.266666666667
+Africa,2007,ha,3649168.0,tonnes,1317091.0,hg/ha,3238.866666666667
+Africa,2008,ha,4078138.0,tonnes,1441728.0,hg/ha,3273.5333333333333
+Africa,2009,ha,3861118.0,tonnes,1472061.0,hg/ha,3387.266666666667
+Africa,2010,ha,3881303.0,tonnes,1469049.0,hg/ha,3417.3333333333335
+Africa,2011,ha,3957068.0,tonnes,1573035.0,hg/ha,3591.133333333333
+Africa,2012,ha,3821840.0,tonnes,1634179.0,hg/ha,3267.133333333333
+Africa,2013,ha,3770155.0,tonnes,1560031.0,hg/ha,3259.3333333333335
+Africa,2014,ha,3783696.0,tonnes,1563565.0,hg/ha,3373.9333333333334
+Africa,2015,ha,3743102.0,tonnes,1557993.0,hg/ha,3519.6666666666665
+Africa,2016,ha,3766764.0,tonnes,1522323.0,hg/ha,3587.3333333333335
+Africa,2017,ha,4116863.0,tonnes,1695645.0,hg/ha,3558.9333333333334
+Africa,2018,ha,3974843.0,tonnes,1643722.0,hg/ha,3581.4
+Africa,2019,ha,3797227.0,tonnes,1549689.0,hg/ha,3724.9333333333334
+Arab States,1961,ha,100.0,tonnes,41.0,hg/ha,4100.0
+Arab States,1962,ha,85.0,tonnes,34.0,hg/ha,4000.0
+Arab States,1963,ha,110.0,tonnes,46.0,hg/ha,4182.0
+Arab States,1964,ha,116.0,tonnes,52.0,hg/ha,4483.0
+Arab States,1965,ha,80.0,tonnes,33.0,hg/ha,4125.0
+Arab States,1966,ha,160.0,tonnes,69.0,hg/ha,4313.0
+Arab States,1967,ha,116.0,tonnes,56.0,hg/ha,4828.0
+Arab States,1968,ha,110.0,tonnes,42.0,hg/ha,3818.0
+Arab States,1969,ha,112.0,tonnes,51.0,hg/ha,4554.0
+Arab States,1970,ha,110.0,tonnes,48.0,hg/ha,4364.0
+Arab States,1971,ha,60.0,tonnes,16.0,hg/ha,2667.0
+Arab States,1972,ha,110.0,tonnes,50.0,hg/ha,4545.0
+Arab States,1973,ha,60.0,tonnes,19.0,hg/ha,3167.0
+Arab States,1974,ha,80.0,tonnes,38.0,hg/ha,4750.0
+Arab States,1975,ha,60.0,tonnes,21.0,hg/ha,3500.0
+Arab States,1976,ha,60.0,tonnes,15.0,hg/ha,2500.0
+Arab States,1977,ha,60.0,tonnes,20.0,hg/ha,3333.0
+Arab States,1978,ha,60.0,tonnes,15.0,hg/ha,2500.0
+Arab States,1979,ha,60.0,tonnes,18.0,hg/ha,3000.0
+Arab States,1980,ha,82.0,tonnes,15.0,hg/ha,1829.0
+Arab States,1981,ha,65.0,tonnes,20.0,hg/ha,3077.0
+Arab States,1982,ha,83.0,tonnes,20.0,hg/ha,2410.0
+Arab States,1983,ha,65.0,tonnes,20.0,hg/ha,3077.0
+Arab States,1984,ha,65.0,tonnes,20.0,hg/ha,3077.0
+Arab States,1985,ha,65.0,tonnes,20.0,hg/ha,3077.0
+Arab States,1986,ha,66.0,tonnes,21.0,hg/ha,3182.0
+Arab States,1987,ha,67.0,tonnes,21.0,hg/ha,3134.0
+Arab States,1988,ha,67.0,tonnes,22.0,hg/ha,3284.0
+Arab States,1989,ha,67.0,tonnes,22.0,hg/ha,3284.0
+Arab States,1990,ha,58.0,tonnes,22.0,hg/ha,3793.0
+Arab States,1991,ha,71.0,tonnes,22.0,hg/ha,3099.0
+Arab States,1992,ha,71.0,tonnes,22.0,hg/ha,3099.0
+Arab States,1993,ha,72.0,tonnes,23.0,hg/ha,3194.0
+Arab States,1994,ha,72.0,tonnes,23.0,hg/ha,3194.0
+Arab States,1995,ha,72.0,tonnes,23.0,hg/ha,3194.0
+Arab States,1996,ha,85.0,tonnes,24.0,hg/ha,2824.0
+Arab States,1997,ha,74.0,tonnes,24.0,hg/ha,3243.0
+Arab States,1998,ha,74.0,tonnes,24.0,hg/ha,3243.0
+Arab States,1999,ha,75.0,tonnes,25.0,hg/ha,3333.0
+Arab States,2000,ha,78.0,tonnes,26.0,hg/ha,3333.0
+Arab States,2001,ha,80.0,tonnes,26.0,hg/ha,3250.0
+Arab States,2002,ha,81.0,tonnes,27.0,hg/ha,3333.0
+Arab States,2003,ha,81.0,tonnes,27.0,hg/ha,3333.0
+Arab States,2004,ha,81.0,tonnes,27.0,hg/ha,3333.0
+Arab States,2005,ha,82.0,tonnes,28.0,hg/ha,3415.0
+Arab States,2006,ha,84.0,tonnes,28.0,hg/ha,3333.0
+Arab States,2007,ha,89.0,tonnes,30.0,hg/ha,3371.0
+Arab States,2008,ha,94.0,tonnes,32.0,hg/ha,3404.0
+Arab States,2009,ha,100.0,tonnes,34.0,hg/ha,3400.0
+Arab States,2010,ha,106.0,tonnes,36.0,hg/ha,3396.0
+Arab States,2011,ha,112.0,tonnes,37.0,hg/ha,3304.0
+Arab States,2012,ha,118.0,tonnes,39.0,hg/ha,3305.0
+Arab States,2013,ha,120.0,tonnes,40.0,hg/ha,3333.0
+Arab States,2014,ha,122.0,tonnes,41.0,hg/ha,3361.0
+Arab States,2015,ha,131.0,tonnes,44.0,hg/ha,3359.0
+Arab States,2016,ha,136.0,tonnes,46.0,hg/ha,3382.0
+Arab States,2017,ha,141.0,tonnes,47.0,hg/ha,3333.0
+Arab States,2018,ha,146.0,tonnes,49.0,hg/ha,3356.0
+Arab States,2019,ha,151.0,tonnes,51.0,hg/ha,3377.0
+Asia & Pacific,1961,ha,68878.0,tonnes,22490.0,hg/ha,3603.9
+Asia & Pacific,1962,ha,75129.0,tonnes,28031.0,hg/ha,3619.4
+Asia & Pacific,1963,ha,72011.0,tonnes,29644.0,hg/ha,3747.4
+Asia & Pacific,1964,ha,97029.0,tonnes,33120.0,hg/ha,3694.7
+Asia & Pacific,1965,ha,78394.0,tonnes,32090.0,hg/ha,3825.1
+Asia & Pacific,1966,ha,77436.0,tonnes,32334.0,hg/ha,4095.0
+Asia & Pacific,1967,ha,86749.0,tonnes,35201.0,hg/ha,3994.6
+Asia & Pacific,1968,ha,92856.0,tonnes,37611.0,hg/ha,4010.5
+Asia & Pacific,1969,ha,95820.0,tonnes,41290.0,hg/ha,4285.0
+Asia & Pacific,1970,ha,95492.0,tonnes,41148.0,hg/ha,4061.7
+Asia & Pacific,1971,ha,97913.0,tonnes,45028.0,hg/ha,3863.3
+Asia & Pacific,1972,ha,110714.0,tonnes,44274.0,hg/ha,3800.9
+Asia & Pacific,1973,ha,101069.0,tonnes,38973.0,hg/ha,3864.7
+Asia & Pacific,1974,ha,114686.0,tonnes,55549.0,hg/ha,4282.8
+Asia & Pacific,1975,ha,124128.0,tonnes,60703.0,hg/ha,4228.8
+Asia & Pacific,1976,ha,126306.0,tonnes,58001.0,hg/ha,4244.3
+Asia & Pacific,1977,ha,139601.0,tonnes,58956.0,hg/ha,4516.636363636364
+Asia & Pacific,1978,ha,139156.0,tonnes,65076.0,hg/ha,4855.909090909091
+Asia & Pacific,1979,ha,141425.0,tonnes,73879.0,hg/ha,5195.454545454545
+Asia & Pacific,1980,ha,174488.0,tonnes,92139.0,hg/ha,4619.75
+Asia & Pacific,1981,ha,193491.0,tonnes,110795.0,hg/ha,4633.916666666667
+Asia & Pacific,1982,ha,204606.0,tonnes,121463.0,hg/ha,4410.0
+Asia & Pacific,1983,ha,230968.0,tonnes,133415.0,hg/ha,4237.461538461538
+Asia & Pacific,1984,ha,267051.0,tonnes,167103.0,hg/ha,4280.538461538462
+Asia & Pacific,1985,ha,281489.0,tonnes,187075.0,hg/ha,4462.846153846154
+Asia & Pacific,1986,ha,341116.0,tonnes,216599.0,hg/ha,4203.2307692307695
+Asia & Pacific,1987,ha,397182.0,tonnes,273009.0,hg/ha,4540.384615384615
+Asia & Pacific,1988,ha,491451.0,tonnes,368617.0,hg/ha,4327.076923076923
+Asia & Pacific,1989,ha,556119.0,tonnes,426025.0,hg/ha,4521.7692307692305
+Asia & Pacific,1990,ha,609913.0,tonnes,454921.0,hg/ha,4457.75
+Asia & Pacific,1991,ha,723872.0,tonnes,464863.0,hg/ha,4430.833333333333
+Asia & Pacific,1992,ha,722314.0,tonnes,490983.0,hg/ha,4670.333333333333
+Asia & Pacific,1993,ha,744427.0,tonnes,517385.0,hg/ha,4596.25
+Asia & Pacific,1994,ha,759766.0,tonnes,474002.0,hg/ha,4402.666666666667
+Asia & Pacific,1995,ha,683462.0,tonnes,461499.0,hg/ha,4730.916666666667
+Asia & Pacific,1996,ha,703223.0,tonnes,529194.0,hg/ha,4896.333333333333
+Asia & Pacific,1997,ha,668115.0,tonnes,499647.0,hg/ha,5036.916666666667
+Asia & Pacific,1998,ha,664384.0,tonnes,598958.0,hg/ha,5252.5
+Asia & Pacific,1999,ha,912039.0,tonnes,507762.0,hg/ha,4837.333333333333
+Asia & Pacific,2000,ha,971316.0,tonnes,560405.0,hg/ha,4890.25
+Asia & Pacific,2001,ha,958567.0,tonnes,654684.0,hg/ha,5177.583333333333
+Asia & Pacific,2002,ha,972205.0,tonnes,730453.0,hg/ha,5086.666666666667
+Asia & Pacific,2003,ha,1158591.0,tonnes,798234.0,hg/ha,5697.916666666667
+Asia & Pacific,2004,ha,1285042.0,tonnes,787712.0,hg/ha,5973.25
+Asia & Pacific,2005,ha,1370231.0,tonnes,848954.0,hg/ha,5831.833333333333
+Asia & Pacific,2006,ha,1116234.0,tonnes,876452.0,hg/ha,6128.333333333333
+Asia & Pacific,2007,ha,1132036.0,tonnes,848261.0,hg/ha,6246.0
+Asia & Pacific,2008,ha,1639794.0,tonnes,907763.0,hg/ha,6165.416666666667
+Asia & Pacific,2009,ha,1813774.0,tonnes,913295.0,hg/ha,6082.75
+Asia & Pacific,2010,ha,1845499.0,tonnes,927778.0,hg/ha,5782.5
+Asia & Pacific,2011,ha,1960404.0,tonnes,794097.0,hg/ha,5146.083333333333
+Asia & Pacific,2012,ha,2054936.0,tonnes,809895.0,hg/ha,5176.75
+Asia & Pacific,2013,ha,1953603.0,tonnes,791790.0,hg/ha,4506.083333333333
+Asia & Pacific,2014,ha,1959604.0,tonnes,805979.0,hg/ha,6012.166666666667
+Asia & Pacific,2015,ha,1953801.0,tonnes,671992.0,hg/ha,5596.666666666667
+Asia & Pacific,2016,ha,1947165.0,tonnes,736257.0,hg/ha,5668.833333333333
+Asia & Pacific,2017,ha,1910188.0,tonnes,672109.0,hg/ha,6802.083333333333
+Asia & Pacific,2018,ha,1876652.0,tonnes,851290.0,hg/ha,7094.083333333333
+Asia & Pacific,2019,ha,1873289.0,tonnes,871631.0,hg/ha,7060.75
+South/Latin America,1961,ha,967851.0,tonnes,310485.0,hg/ha,3752.84
+South/Latin America,1962,ha,960574.0,tonnes,298306.0,hg/ha,3752.8
+South/Latin America,1963,ha,977488.0,tonnes,306355.0,hg/ha,4048.24
+South/Latin America,1964,ha,929396.0,tonnes,299840.0,hg/ha,3727.0
+South/Latin America,1965,ha,994827.0,tonnes,301551.0,hg/ha,3543.48
+South/Latin America,1966,ha,911598.0,tonnes,321513.0,hg/ha,3632.08
+South/Latin America,1967,ha,944658.0,tonnes,350545.0,hg/ha,3711.72
+South/Latin America,1968,ha,920638.0,tonnes,332721.0,hg/ha,3694.4
+South/Latin America,1969,ha,940739.0,tonnes,353332.0,hg/ha,3660.92
+South/Latin America,1970,ha,990888.0,tonnes,361232.0,hg/ha,3660.4166666666665
+South/Latin America,1971,ha,975267.0,tonnes,394423.0,hg/ha,3613.25
+South/Latin America,1972,ha,964460.0,tonnes,410613.0,hg/ha,3803.1666666666665
+South/Latin America,1973,ha,952222.0,tonnes,375992.0,hg/ha,3659.2916666666665
+South/Latin America,1974,ha,1059984.0,tonnes,455610.0,hg/ha,3805.875
+South/Latin America,1975,ha,974266.0,tonnes,473903.0,hg/ha,3825.5416666666665
+South/Latin America,1976,ha,939806.0,tonnes,414274.0,hg/ha,3755.875
+South/Latin America,1977,ha,963107.0,tonnes,438909.0,hg/ha,3857.2916666666665
+South/Latin America,1978,ha,1058806.0,tonnes,502454.0,hg/ha,4031.3333333333335
+South/Latin America,1979,ha,1054230.0,tonnes,551836.0,hg/ha,4124.0
+South/Latin America,1980,ha,1061634.0,tonnes,535480.0,hg/ha,4181.416666666667
+South/Latin America,1981,ha,1094790.0,tonnes,543879.0,hg/ha,4145.291666666667
+South/Latin America,1982,ha,1171101.0,tonnes,591453.0,hg/ha,4421.583333333333
+South/Latin America,1983,ha,1211534.0,tonnes,564742.0,hg/ha,4150.583333333333
+South/Latin America,1984,ha,1213855.0,tonnes,557041.0,hg/ha,4327.166666666667
+South/Latin America,1985,ha,1300870.0,tonnes,721556.0,hg/ha,4503.958333333333
+South/Latin America,1986,ha,1372215.0,tonnes,713401.0,hg/ha,4490.458333333333
+South/Latin America,1987,ha,1414068.0,tonnes,564481.0,hg/ha,4271.25
+South/Latin America,1988,ha,1414264.0,tonnes,649993.0,hg/ha,4176.0
+South/Latin America,1989,ha,1401723.0,tonnes,671143.0,hg/ha,3945.75
+South/Latin America,1990,ha,1422527.0,tonnes,536323.0,hg/ha,3956.5416666666665
+South/Latin America,1991,ha,1396570.0,tonnes,599724.0,hg/ha,3686.625
+South/Latin America,1992,ha,1472749.0,tonnes,607788.0,hg/ha,3613.9583333333335
+South/Latin America,1993,ha,1484817.0,tonnes,627293.0,hg/ha,3692.8695652173915
+South/Latin America,1994,ha,1439840.0,tonnes,603821.0,hg/ha,3619.7391304347825
+South/Latin America,1995,ha,1569974.0,tonnes,593574.0,hg/ha,3540.0434782608695
+South/Latin America,1996,ha,1449850.0,tonnes,541935.0,hg/ha,3462.375
+South/Latin America,1997,ha,1489214.0,tonnes,554390.0,hg/ha,3512.375
+South/Latin America,1998,ha,1435872.0,tonnes,510375.0,hg/ha,3514.625
+South/Latin America,1999,ha,1366850.0,tonnes,456203.0,hg/ha,3422.0833333333335
+South/Latin America,2000,ha,1526491.0,tonnes,406729.0,hg/ha,3319.25
+South/Latin America,2001,ha,1474242.0,tonnes,432730.0,hg/ha,3964.3333333333335
+South/Latin America,2002,ha,1338238.0,tonnes,406683.0,hg/ha,4276.25
+South/Latin America,2003,ha,1332056.0,tonnes,442578.0,hg/ha,4607.375
+South/Latin America,2004,ha,1358736.0,tonnes,464610.0,hg/ha,4816.666666666667
+South/Latin America,2005,ha,1373187.0,tonnes,453667.0,hg/ha,4552.583333333333
+South/Latin America,2006,ha,1403215.0,tonnes,475820.0,hg/ha,5017.521739130435
+South/Latin America,2007,ha,1400643.0,tonnes,467538.0,hg/ha,5182.217391304348
+South/Latin America,2008,ha,1459284.0,tonnes,496302.0,hg/ha,4858.478260869565
+South/Latin America,2009,ha,1502318.0,tonnes,563448.0,hg/ha,4728.695652173913
+South/Latin America,2010,ha,1501946.0,tonnes,592357.0,hg/ha,4820.782608695652
+South/Latin America,2011,ha,1556196.0,tonnes,694084.0,hg/ha,4890.869565217391
+South/Latin America,2012,ha,1598151.0,tonnes,635632.0,hg/ha,5164.782608695652
+South/Latin America,2013,ha,1628912.0,tonnes,638877.0,hg/ha,4991.434782608696
+South/Latin America,2014,ha,1604986.0,tonnes,694031.0,hg/ha,5062.478260869565
+South/Latin America,2015,ha,1687841.0,tonnes,749470.0,hg/ha,5072.260869565217
+South/Latin America,2016,ha,1739722.0,tonnes,704421.0,hg/ha,5259.608695652174
+South/Latin America,2017,ha,1600995.0,tonnes,806921.0,hg/ha,5524.173913043478
+South/Latin America,2018,ha,1645350.0,tonnes,863750.0,hg/ha,5701.347826086957
+South/Latin America,2019,ha,1652813.0,tonnes,942312.0,hg/ha,5718.95652173913
