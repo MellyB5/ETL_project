@@ -24,11 +24,10 @@ refer to work allocation spreadsheet attached
 <strong>Source</strong><br>
 Refer to website sources excel spreadsheet attached<br>
 
-<Strong>Output</Strong>
+<Strong>Output</Strong><br>
 •	Technical Report - refer to Analysis.docx<br>
 •	Compiled Codes - refer to ETL_consol.ipynb<br>
 •	Schema - refer to sql table schema.sql<br>
-•	Comparison of production indices across different countries<br>
 •	team member codes are saved in each respective folder<br>
 <br>
 
