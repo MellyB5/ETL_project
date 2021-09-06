@@ -22,3 +22,4 @@ CREATE TABLE "Choc_Rating" (
 ALTER TABLE "Choc_Rating" ADD CONSTRAINT "fk_Choc_Rating_Country" FOREIGN KEY("Country")
 REFERENCES "Utilisation" ("Country");
 
+drop table utilisation
